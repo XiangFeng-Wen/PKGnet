@@ -1,0 +1,3 @@
+[submodule "STF-Unet"]
+	path = STF-Unet
+	url = https://github.com/XiangFeng-Wen/PKGnet.git
