@@ -1,0 +1,5 @@
+./train_models.sh: line 12: /home/wxf/venv/bin/activate: No such file or directory
+开始训练模型: unet
+开始训练模型: transunet
+开始训练模型: xlstm-unet
+所有模型训练完成
